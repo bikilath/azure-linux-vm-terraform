@@ -1,9 +1,6 @@
 # Azure Linux VM Terraform Deployment
 
-Terraform project to deploy an Ubuntu Linux Virtual Machine in Azure, including networking, security, and public IP configuration. Provides automated infrastructure setup and outputs the VM’s public IP for easy access.
-
-
-This Terraform project deploys an Ubuntu Linux Virtual Machine in Azure along with the required networking and security infrastructure.
+This Terraform project deploys an Ubuntu Linux Virtual Machine in Azure, including networking, security groups, and public IP configuration. Provides automated infrastructure setup and outputs the VM’s public IP for easy access.
 
 ## Resources Created
 
